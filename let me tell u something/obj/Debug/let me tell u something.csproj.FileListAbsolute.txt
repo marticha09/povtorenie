@@ -1,0 +1,7 @@
+C:\Users\1409-1\Desktop\martin 9a\let me tell u something\bin\Debug\let me tell u something.exe.config
+C:\Users\1409-1\Desktop\martin 9a\let me tell u something\bin\Debug\let me tell u something.exe
+C:\Users\1409-1\Desktop\martin 9a\let me tell u something\bin\Debug\let me tell u something.pdb
+C:\Users\1409-1\Desktop\martin 9a\let me tell u something\obj\Debug\let me tell u something.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\martin 9a\let me tell u something\obj\Debug\let me tell u something.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\martin 9a\let me tell u something\obj\Debug\let me tell u something.exe
+C:\Users\1409-1\Desktop\martin 9a\let me tell u something\obj\Debug\let me tell u something.pdb

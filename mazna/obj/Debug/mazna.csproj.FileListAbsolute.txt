@@ -1,0 +1,7 @@
+C:\Users\1409-1\Desktop\martin 9a\mazna\bin\Debug\mazna.exe.config
+C:\Users\1409-1\Desktop\martin 9a\mazna\bin\Debug\mazna.exe
+C:\Users\1409-1\Desktop\martin 9a\mazna\bin\Debug\mazna.pdb
+C:\Users\1409-1\Desktop\martin 9a\mazna\obj\Debug\mazna.csproj.AssemblyReference.cache
+C:\Users\1409-1\Desktop\martin 9a\mazna\obj\Debug\mazna.csproj.CoreCompileInputs.cache
+C:\Users\1409-1\Desktop\martin 9a\mazna\obj\Debug\mazna.exe
+C:\Users\1409-1\Desktop\martin 9a\mazna\obj\Debug\mazna.pdb
